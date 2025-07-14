@@ -1,8 +1,7 @@
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
-import React, { useEffect } from 'react'
+import React from 'react'
 import { ProjectInfo } from './ProjectInfo';
-import { ScrollTopButton } from '@/lib/ScrollTopButton';
 import { ScrollButton } from '@/lib/ScrollButton';
 
 export const Project = () => {
