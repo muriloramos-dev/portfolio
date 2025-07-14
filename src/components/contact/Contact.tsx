@@ -1,5 +1,4 @@
 import { ScrollTopButton } from '@/lib/ScrollTopButton'
-import React from 'react'
 import Linkedin from '@/assets/linkedin.png'
 import Github from '@/assets/github.png'
 import Email from '@/assets/email.png'

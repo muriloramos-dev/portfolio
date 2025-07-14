@@ -1,12 +1,9 @@
-import React from 'react'
 import SVGComponent from './Svg'
-import { ThemeToggle } from '@/lib/ThemeToggle';
 import { motion } from 'motion/react';
 import gsap from 'gsap';
 
 export const Navbar = () => {
 
-  const [darkMode, setDarkMode] = React.useState(false);
 
   return (
     <div className="mt-4 mx-6 flex justify-between items-center text-white font-font text-6xl fixed top-0 left-0 right-0" >
