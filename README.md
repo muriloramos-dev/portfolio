@@ -2,7 +2,7 @@
 
 Este é o meu portfólio pessoal, desenvolvido com foco em performance, responsividade e interatividade. Aqui você pode conhecer meus projetos, tecnologias que utilizo e formas de entrar em contato comigo.
 
-![Preview](./preview.png) <!-- opcional: coloque um print da home do portfólio -->
+![Preview](./output.gif)
 
 ---
 
