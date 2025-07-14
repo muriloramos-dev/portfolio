@@ -20,10 +20,10 @@ Este é o meu portfólio pessoal, desenvolvido com foco em performance, responsi
 
 ## 💼 Projetos Apresentados
 
-### 🛒 [QuickMart](https://github.com/muriloramos-dev)  
+### 🛒
 Um e-commerce simples, com foco em velocidade na experiência de compra e suporte para diferentes perfis de usuários.
 
-### 💻 [Technova](https://github.com/muriloramos-dev)  
+### 💻 
 Evolução do QuickMart com arquitetura de microsserviços, CI/CD, Docker, RabbitMQ e orquestração com Kubernetes.
 
 ### 🐝 TaskHive  
